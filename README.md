@@ -4,6 +4,4 @@
 
 <h2>Current project</h2>
 
-> [Minishell](https://github.com/JorgeVB20007/minishell) (waiting for evaluation)
-
 > [Philosophers](https://github.com/JorgeVB20007/philosophers) ⏳
