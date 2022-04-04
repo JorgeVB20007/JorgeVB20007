@@ -1,35 +1,33 @@
 <h1>42 Cursus progress</h1>
 
-<!--- [![jvacaris's 42 stats](https://badge42.herokuapp.com/api/stats/jvacaris?privacyEmail=true)](http://42madrid.com)--->
-Current level: <b>Level 4 - 10%</b> 🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜
+[![jvacaris's 42 stats](https://badge42.vercel.app/api/v2/cl1kwsj9a001109jum5dnxntc/stats?cursusId=21&coalitionId=64)](https://www.42network.org/42-schools/)
 
-Current Black Hole absorption: <b>27/08/2022</b>
 
 <h2>Current project</h2>
 
 <!---[MiniRT ](https://github.com/JorgeVB20007/philosophers)[![jvacaris's MiniRT Score](https://badge42.herokuapp.com/api/project/jvacaris/Philosophers)]--->
-[MiniRT ](https://github.com/JorgeVB20007/miniRT)
+[MiniRT ](https://github.com/JorgeVB20007/miniRT)   [![jvacaris's 42 miniRT Score](https://badge42.vercel.app/api/v2/cl1kwsj9a001109jum5dnxntc/project/2536174)](https://github.com/JaeSeoKim/badge42)
 
 <h2>Finished projects</h2>
 
-> 1a. [Libft](https://github.com/JorgeVB20007/42.libft)
+> 1a. [Libft](https://github.com/JorgeVB20007/42.libft) [![jvacaris's 42 Libft Score](https://badge42.vercel.app/api/v2/cl1kwsj9a001109jum5dnxntc/project/2175196)](https://github.com/JorgeVB20007/42.libft)
 
-> 2a. [get_next_line](https://github.com/JorgeVB20007/42.get_next_line)
+> 2a. [get_next_line](https://github.com/JorgeVB20007/42.get_next_line) [![jvacaris's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl1kwsj9a001109jum5dnxntc/project/2193409)](https://github.com/JorgeVB20007/42.get_next_line)
 >
-> 2b. [printf](https://github.com/JorgeVB20007/42.printf)
+> 2b. [printf](https://github.com/JorgeVB20007/42.printf) [![jvacaris's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl1kwsj9a001109jum5dnxntc/project/2223253)](https://github.com/JorgeVB20007/42.printf)
 >
-> 2c. [born2beroot](#)
+> 2c. [born2beroot](#)  [![jvacaris's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl1kwsj9a001109jum5dnxntc/project/2266901)](#)
 
-> 3a. [push_swap](https://github.com/JorgeVB20007/42.push_swap)
+> 3a. [push_swap](https://github.com/JorgeVB20007/42.push_swap) [![jvacaris's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl1kwsj9a001109jum5dnxntc/project/2304466)](https://github.com/JorgeVB20007/42.push_swap)
 >
-> 3b. [fdf](https://github.com/JorgeVB20007/42.fdf)
+> 3b. [fdf](https://github.com/JorgeVB20007/42.fdf) [![jvacaris's 42 FdF Score](https://badge42.vercel.app/api/v2/cl1kwsj9a001109jum5dnxntc/project/2343093)](https://github.com/JorgeVB20007/42.fdf)
 >
-> 3c. [pipex](https://github.com/JorgeVB20007/42.pipex)
+> 3c. [pipex](https://github.com/JorgeVB20007/42.pipex) [![jvacaris's 42 pipex Score](https://badge42.vercel.app/api/v2/cl1kwsj9a001109jum5dnxntc/project/2357048)](https://github.com/JorgeVB20007/42.pipex)
 
 
-> 4a. [minishell](https://github.com/JorgeVB20007/minishell)
+> 4a. [minishell](https://github.com/JorgeVB20007/minishell)  [![jvacaris's 42 minishell Score](https://badge42.vercel.app/api/v2/cl1kwsj9a001109jum5dnxntc/project/2377555)](https://github.com/JorgeVB20007/minishell)
 > 
-> 4b. [Philosophers](https://github.com/JorgeVB20007/philosophers)
+> 4b. [Philosophers](https://github.com/JorgeVB20007/philosophers)  [![jvacaris's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl1kwsj9a001109jum5dnxntc/project/2475421)](https://github.com/JaeSeoKim/badge42)
 
 
 <!---
