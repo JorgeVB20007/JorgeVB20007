@@ -25,9 +25,8 @@
 | **4** B | [Philosophers](https://github.com/JorgeVB20007/philosophers) | [![jvacaris's 42 Philosophers Score: 100/100](https://badge42.vercel.app/api/v2/cl1kwsj9a001109jum5dnxntc/project/2475421)](https://github.com/JaeSeoKim/badge42)
 | **5** A | [MiniRT](https://github.com/JorgeVB20007/miniRT) | [![jvacaris's 42 miniRT Score: 111/100](https://badge42.vercel.app/api/v2/cl1kwsj9a001109jum5dnxntc/project/2536174)](https://github.com/JaeSeoKim/badge42)
 | **5** B | [netpractice](#) | [![jvacaris's 42 netpractice Score: 100/100](https://badge42.vercel.app/api/v2/cl1kwsj9a001109jum5dnxntc/project/2578370)](#)
-
-
-
+| **5** C | [C++ Piscine](#) | <details><summary>C++ Piscine</summary>C++ Module 00<br>[![jvacaris's 42 CPP Module 00 Score](https://badge42.vercel.app/api/v2/cl1kwsj9a001109jum5dnxntc/project/2587039)](#)<br><br>C++ Module 01<br>[![jvacaris's 42 CPP Module 01 Score](https://badge42.vercel.app/api/v2/cl1kwsj9a001109jum5dnxntc/project/2615882)](#)<br><br>C++ Module 02<br>[![jvacaris's 42 CPP Module 02 Score](https://badge42.vercel.app/api/v2/cl1kwsj9a001109jum5dnxntc/project/2767618)](#)<br><br>C++ Module 03<br>[![jvacaris's 42 CPP Module 03 Score](https://badge42.vercel.app/api/v2/cl1kwsj9a001109jum5dnxntc/project/2790486)](#)<br><br>C++ Module 04<br>[![jvacaris's 42 CPP Module 04 Score](https://badge42.vercel.app/api/v2/cl1kwsj9a001109jum5dnxntc/project/2811205)](#)
+</details>
 
 
 
