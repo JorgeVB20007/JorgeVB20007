@@ -7,7 +7,7 @@
 
 | Level | Project name | Status |   |
 |:-----:|:------------:|:------:|:-:|
-| **7 A** | ft_transcendence | ⏳ In progress | <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_node.svg" width="30" height="30"> <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_typescript_official.svg" width="30" height="30"> |
+| **7 A** | ft_transcendence | ⏳ In progress | <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_node.svg" width="30" height="30"> <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_angular.svg" width="30" height="30"> |
 
 <h2>Finished projects</h2>
 
