@@ -1,7 +1,10 @@
 <h1>42 Cursus progress</h1>
 
+<!--
 [![jvacaris's 42 stats](https://badge42.vercel.app/api/v2/cl1kwsj9a001109jum5dnxntc/stats?cursusId=21&coalitionId=64)](https://www.42network.org/42-schools/)
-
+-->
+<h3>Level 11</h3>
+🔵🔵🔵🔵🔵🔵🔵🔵🔵⚪️ 98%
 
 <h2>Current project</h2>
 
@@ -13,7 +16,7 @@
 
 
 | Level | Project name | Mark |   |
-|:-----:|:-------------|:----:|:-:|
+|:-----:|:-------------:|:----:|:-:|
 | **1** A | [Libft](https://github.com/JorgeVB20007/42.libft) | 112/100 | <a href ="https://github.com/search?q=user%3AJorgeVB20007++language%3AC&type=repositories"><img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_c3.svg" width="30" height="30">
 | **2** A | [get_next_line](https://github.com/JorgeVB20007/42.get_next_line) | 115/100 | <a href ="https://github.com/search?q=user%3AJorgeVB20007++language%3AC&type=repositories"><img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_c3.svg" width="30" height="30">
 | **2** B | [printf](https://github.com/JorgeVB20007/42.printf) | 125/100 | <a href ="https://github.com/search?q=user%3AJorgeVB20007++language%3AC&type=repositories"><img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_c3.svg" width="30" height="30">
@@ -25,11 +28,12 @@
 | **4** B | [Philosophers](https://github.com/JorgeVB20007/philosophers) | 100/100 | <a href ="https://github.com/search?q=user%3AJorgeVB20007++language%3AC&type=repositories"><img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_c3.svg" width="30" height="30">
 | **5** A | [miniRT](https://github.com/JorgeVB20007/miniRT) | 111/100 | <a href ="https://github.com/search?q=user%3AJorgeVB20007++language%3AC&type=repositories"><img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_c3.svg" width="30" height="30">
 | **5** B | [NetPractice](#) | 100/100 | <img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/http.svg" width="30" height="30">
-| **5** C<br>**6** A | [C++ Piscine](https://github.com/JorgeVB20007/42.CPP_Piscine) | <details><summary>Click to expand</summary><h2>5 C</h2>[C++ Module 00](https://github.com/JorgeVB20007/42.CPP_Piscine/tree/master/cpp00)<br>100/100<br><br>[C++ Module 01](https://github.com/JorgeVB20007/42.CPP_Piscine/tree/master/cpp01)<br>100/100<br><br>[C++ Module 02](https://github.com/JorgeVB20007/42.CPP_Piscine/tree/master/cpp02)<br>100/100<br><br>[C++ Module 03](https://github.com/JorgeVB20007/42.CPP_Piscine/tree/master/cpp03)<br>90/100<br><br>[C++ Module 04](https://github.com/JorgeVB20007/42.CPP_Piscine/tree/master/cpp04)<br>100/100<br><h2>6 A</h2>[C++ Module 05](https://github.com/JorgeVB20007/42.CPP_Piscine/tree/master/cpp05)<br>100/100<br><br>[C++ Module 06](https://github.com/JorgeVB20007/42.CPP_Piscine/tree/master/cpp06)<br>100/100<br><br>[C++ Module 07](https://github.com/JorgeVB20007/42.CPP_Piscine/tree/master/cpp07)<br>100/100<br><br>[C++ Module 08](https://github.com/JorgeVB20007/42.CPP_Piscine/tree/master/cpp08)<br>100/100<br><br>[C++ Module 09](https://github.com/JorgeVB20007/42.CPP_Piscine/tree/master/cpp09)<br>93/100 <a href ="https://github.com/JorgeVB20007/42.CPP_Piscine/tree/master/cpp09"><img src="https://cdn.intra.42.fr/achievement/image/113/PRO015.svg" width="16" height="16"></details> | <a href ="https://github.com/search?q=user%3AJorgeVB20007++language%3AC%2B%2B+&type=repositories"><img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_cpp3.svg" width="30" height="30">
+| **5** C<br>**6** A | [C++ Piscine](https://github.com/JorgeVB20007/42.CPP_Piscine) | <details><summary>Click to expand</summary><h2>5 C</h2>[C++ Module 00](https://github.com/JorgeVB20007/42.CPP_Piscine/tree/master/cpp00)<br>100/100<br><br>[C++ Module 01](https://github.com/JorgeVB20007/42.CPP_Piscine/tree/master/cpp01)<br>100/100<br><br>[C++ Module 02](https://github.com/JorgeVB20007/42.CPP_Piscine/tree/master/cpp02)<br>100/100<br><br>[C++ Module 03](https://github.com/JorgeVB20007/42.CPP_Piscine/tree/master/cpp03)<br>90/100<br><br>[C++ Module 04](https://github.com/JorgeVB20007/42.CPP_Piscine/tree/master/cpp04)<br>100/100<br><h2>6 A</h2>[C++ Module 05](https://github.com/JorgeVB20007/42.CPP_Piscine/tree/master/cpp05)<br>100/100<br><br>[C++ Module 06](https://github.com/JorgeVB20007/42.CPP_Piscine/tree/master/cpp06)<br>100/100<br><br>[C++ Module 07](https://github.com/JorgeVB20007/42.CPP_Piscine/tree/master/cpp07)<br>100/100<br><br>[C++ Module 08](https://github.com/JorgeVB20007/42.CPP_Piscine/tree/master/cpp08)<br>100/100<br><br>[C++ Module 09](https://github.com/JorgeVB20007/42.CPP_Piscine/tree/master/cpp09)<br>93/100 <a href ="https://github.com/JorgeVB20007/42.CPP_Piscine/tree/master/cpp09"><img src="https://cdn.intra.42.fr/achievement/image/113/PRO015.svg" width="16" height="16"><br><br></details> | <a href ="https://github.com/search?q=user%3AJorgeVB20007++language%3AC%2B%2B+&type=repositories"><img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_cpp3.svg" width="30" height="30">
 | **6** B | [webserv](https://github.com/eM4dri/42_webserv/) | 100/100 | <a href ="https://github.com/search?q=user%3AJorgeVB20007++language%3AC%2B%2B+&type=repositories"><img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_cpp3.svg" width="30" height="30">
 | **6** C | [Inception](#) | 100/100 | <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_docker2.svg" width="30" height="30">
 | **7** A | [ft_transcendence](#) | 100/100 | <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_node.svg" width="30" height="30"> <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_angular.svg" width="30" height="30">
-
+| | 
+| **Outer Core** | [Python for<br>Data Science](https://github.com/JorgeVB20007/Python_Piscine) | <details><summary>Click to expand</summary><br>[0 - Starting](https://github.com/JorgeVB20007/Python_Piscine/tree/master/Module00)<br>65/100<br><br>[1 - Array](https://github.com/JorgeVB20007/Python_Piscine/tree/master/Module01)<br>100/100<br><br>[2 - DataTable](https://github.com/JorgeVB20007/Python_Piscine/tree/master/Module02)<br>100/100<br><br>[3 - OOP](https://github.com/JorgeVB20007/Python_Piscine/tree/master/Module03)<br>100/100<br><br>[4 - Dod](https://github.com/JorgeVB20007/Python_Piscine/tree/master/Module04)<br>100/100<br><br></details> | <a href ="https://github.com/search?q=user%3AJorgeVB20007++language%3AC%2B%2B+&type=repositories"><img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_python.svg" width="30" height="30">
 
 
 <!--
