@@ -4,12 +4,13 @@
 [![jvacaris's 42 stats](https://badge42.vercel.app/api/v2/cl1kwsj9a001109jum5dnxntc/stats?cursusId=21&coalitionId=64)](https://www.42network.org/42-schools/)
 -->
 <h3>Level 11</h3>
-🔵🔵🔵🔵🔵🔵🔵🔵🔵⚪️ 96%
+🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵 99%
 
 <h2>Current project</h2>
 
 | Level | Project name | Status |   |
 |:-----:|:------------:|:------:|:-:|
+| **Outer Core** | Data Science<br>Piscine | ⏳ In progress | <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_sql.svg" width="30" height="30"><img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_python.svg" width="30" height="30"> |
 | **Outer Core** | rt | ⏳ In progress | <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_cpp3.svg" width="30" height="30"> |
 
 <h2>Finished projects</h2>
