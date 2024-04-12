@@ -3,8 +3,8 @@
 <!--
 [![jvacaris's 42 stats](https://badge42.vercel.app/api/v2/cl1kwsj9a001109jum5dnxntc/stats?cursusId=21&coalitionId=64)](https://www.42network.org/42-schools/)
 -->
-<h3>Level 11</h3>
-🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵 99%
+<h3>Level 12</h3>
+⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️ 2%
 
 <h2>Current project</h2>
 
