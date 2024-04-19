@@ -4,13 +4,12 @@
 [![jvacaris's 42 stats](https://badge42.vercel.app/api/v2/cl1kwsj9a001109jum5dnxntc/stats?cursusId=21&coalitionId=64)](https://www.42network.org/42-schools/)
 -->
 <h3>Level 12</h3>
-⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️ 2%
+⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️ 4%
 
 <h2>Current project</h2>
 
 | Level | Project name | Status |   |
 |:-----:|:------------:|:------:|:-:|
-| **Outer Core** | Data Science<br>Piscine | ⏳ In progress | <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_sql.svg" width="30" height="30"><img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_python.svg" width="30" height="30"> |
 | **Outer Core** | rt | ⏳ In progress | <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_cpp3.svg" width="30" height="30"> |
 
 <h2>Finished projects</h2>
@@ -35,7 +34,7 @@
 | **7** A | [ft_transcendence](#) | 100/100 | <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_node.svg" width="30" height="30"> <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_angular.svg" width="30" height="30">
 | | 
 | **Outer Core** | [Python for<br>Data Science](https://github.com/JorgeVB20007/Python_Piscine) | <details><summary>Click to expand</summary><br>[0 - Starting](https://github.com/JorgeVB20007/Python_Piscine/tree/master/Module00)<br>65/100<br><br>[1 - Array](https://github.com/JorgeVB20007/Python_Piscine/tree/master/Module01)<br>100/100<br><br>[2 - DataTable](https://github.com/JorgeVB20007/Python_Piscine/tree/master/Module02)<br>100/100<br><br>[3 - OOP](https://github.com/JorgeVB20007/Python_Piscine/tree/master/Module03)<br>100/100<br><br>[4 - Dod](https://github.com/JorgeVB20007/Python_Piscine/tree/master/Module04)<br>100/100<br><br></details> | <a href ="https://github.com/search?q=user%3AJorgeVB20007++language%3AC%2B%2B+&type=repositories"><img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_python.svg" width="30" height="30">
-
+| **Outer Core** | [Data Science<br>Piscine](https://github.com/JorgeVB20007/DataScience_Piscine) | <details><summary>Click to expand</summary><br>[Data Science 0](https://github.com/JorgeVB20007/DataScience_Piscine/tree/master/ds0)<br>100/100<br><br>[Data Science 1](https://github.com/JorgeVB20007/DataScience_Piscine/tree/master/ds1)<br>100/100<br><br>[Data Science 2](https://github.com/JorgeVB20007/DataScience_Piscine/tree/master/ds2)<br>100/100<br><br></details> | <a href ="https://github.com/search?q=user%3AJorgeVB20007++language%3AC%2B%2B+&type=repositories"><img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_sql.svg" width="30" height="30"><img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_python.svg" width="30" height="30">
 
 <!--
 | Level | Project name | Mark |   |
